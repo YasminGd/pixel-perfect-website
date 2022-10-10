@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/YasminGd/pixel-perfect-website/static/css/main.3e8c9ade.css",
-    "main.js": "/YasminGd/pixel-perfect-website/static/js/main.575a8048.js",
-    "static/media/Livvic-MediumItalic.ttf": "/YasminGd/pixel-perfect-website/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
-    "static/media/Livvic-Light.ttf": "/YasminGd/pixel-perfect-website/static/media/Livvic-Light.00ab7fdbfbb47fc8e788.ttf",
-    "static/media/Livvic-Bold.ttf": "/YasminGd/pixel-perfect-website/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
-    "static/media/Livvic-SemiBold.ttf": "/YasminGd/pixel-perfect-website/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
-    "static/media/Livvic-Regular.ttf": "/YasminGd/pixel-perfect-website/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
-    "static/media/avatar-kady.jpg": "/YasminGd/pixel-perfect-website/static/media/avatar-kady.78fc482c1b331d912ca1.jpg",
-    "static/media/avatar-arthur.jpg": "/YasminGd/pixel-perfect-website/static/media/avatar-arthur.098c2e26b1c3fa071061.jpg",
-    "static/media/avatar-aiysha.jpg": "/YasminGd/pixel-perfect-website/static/media/avatar-aiysha.e119a0c1a5a4d6a6d0bb.jpg",
-    "static/media/mechanic.svg": "/YasminGd/pixel-perfect-website/static/media/mechanic.13cd4312c1c9dc66595fee0400e3918e.svg",
-    "static/media/man.svg": "/YasminGd/pixel-perfect-website/static/media/man.05d14abc4378cef1dc385e78afb3f535.svg",
-    "static/media/logo.svg": "/YasminGd/pixel-perfect-website/static/media/logo.d7c7696e684ed1dd79a8d5afb90c0bd1.svg",
-    "static/media/graph.svg": "/YasminGd/pixel-perfect-website/static/media/graph.6edf773d1ab17f78a0de401ba6d6313f.svg",
-    "static/media/pattern2.svg": "/YasminGd/pixel-perfect-website/static/media/pattern2.3d613ebdffbc429257dbe7d3b5b4866e.svg",
-    "static/media/pattern3.svg": "/YasminGd/pixel-perfect-website/static/media/pattern3.b39b6179fe7ebb4cc318dd2735c8230e.svg",
-    "static/media/icon-quotes.svg": "/YasminGd/pixel-perfect-website/static/media/icon-quotes.c51739212c310345577396beac77ec6a.svg",
-    "static/media/pattern1.svg": "/YasminGd/pixel-perfect-website/static/media/pattern1.8b35e371c9a49ec9e36c65c0c0fe2d7f.svg",
-    "index.html": "/YasminGd/pixel-perfect-website/index.html",
-    "main.3e8c9ade.css.map": "/YasminGd/pixel-perfect-website/static/css/main.3e8c9ade.css.map",
-    "main.575a8048.js.map": "/YasminGd/pixel-perfect-website/static/js/main.575a8048.js.map"
+    "main.css": "/pixel-perfect-website/static/css/main.20c4adb0.css",
+    "main.js": "/pixel-perfect-website/static/js/main.a99d1769.js",
+    "static/media/Livvic-MediumItalic.ttf": "/pixel-perfect-website/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
+    "static/media/Livvic-Light.ttf": "/pixel-perfect-website/static/media/Livvic-Light.00ab7fdbfbb47fc8e788.ttf",
+    "static/media/Livvic-Bold.ttf": "/pixel-perfect-website/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
+    "static/media/Livvic-SemiBold.ttf": "/pixel-perfect-website/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
+    "static/media/Livvic-Regular.ttf": "/pixel-perfect-website/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
+    "static/media/avatar-kady.jpg": "/pixel-perfect-website/static/media/avatar-kady.78fc482c1b331d912ca1.jpg",
+    "static/media/avatar-arthur.jpg": "/pixel-perfect-website/static/media/avatar-arthur.098c2e26b1c3fa071061.jpg",
+    "static/media/avatar-aiysha.jpg": "/pixel-perfect-website/static/media/avatar-aiysha.e119a0c1a5a4d6a6d0bb.jpg",
+    "static/media/mechanic.svg": "/pixel-perfect-website/static/media/mechanic.13cd4312c1c9dc66595fee0400e3918e.svg",
+    "static/media/man.svg": "/pixel-perfect-website/static/media/man.05d14abc4378cef1dc385e78afb3f535.svg",
+    "static/media/logo.svg": "/pixel-perfect-website/static/media/logo.d7c7696e684ed1dd79a8d5afb90c0bd1.svg",
+    "static/media/graph.svg": "/pixel-perfect-website/static/media/graph.6edf773d1ab17f78a0de401ba6d6313f.svg",
+    "static/media/pattern2.svg": "/pixel-perfect-website/static/media/pattern2.3d613ebdffbc429257dbe7d3b5b4866e.svg",
+    "static/media/pattern3.svg": "/pixel-perfect-website/static/media/pattern3.b39b6179fe7ebb4cc318dd2735c8230e.svg",
+    "static/media/icon-quotes.svg": "/pixel-perfect-website/static/media/icon-quotes.c51739212c310345577396beac77ec6a.svg",
+    "static/media/pattern1.svg": "/pixel-perfect-website/static/media/pattern1.8b35e371c9a49ec9e36c65c0c0fe2d7f.svg",
+    "index.html": "/pixel-perfect-website/index.html",
+    "main.20c4adb0.css.map": "/pixel-perfect-website/static/css/main.20c4adb0.css.map",
+    "main.a99d1769.js.map": "/pixel-perfect-website/static/js/main.a99d1769.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e8c9ade.css",
-    "static/js/main.575a8048.js"
+    "static/css/main.20c4adb0.css",
+    "static/js/main.a99d1769.js"
   ]
 }
